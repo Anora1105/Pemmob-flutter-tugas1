@@ -1,6 +1,6 @@
 ## Nama = Ariza Nola Rufiana
 ## NIM = H1D023005
-# Penjelasan
+### Penjelasan
 🧮 Kalkulator BMI - Dart
 Program sederhana menggunakan bahasa Dart untuk menghitung *BMI (Body Mass Index)* seseorang berdasarkan berat badan dan tinggi badan.  
 BMI adalah salah satu indikator yang digunakan untuk mengetahui apakah berat badan seseorang termasuk *kurus, normal, gemuk, atau obesitas*.
